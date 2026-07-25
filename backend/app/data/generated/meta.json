@@ -1,0 +1,13 @@
+{
+  "currency": "INR",
+  "reference_date": "2026-07-15",
+  "history_months": 12,
+  "n_members": 400,
+  "n_transactions": 170770,
+  "n_refunds": 4557,
+  "n_lounge_pass_visits": 372,
+  "n_claims": 68,
+  "n_offers": 1774,
+  "n_nudge_records": 3060,
+  "seed": 42
+}
